@@ -1,6 +1,6 @@
 # Cod Reducere evoMAG
 
-O colecție de coduri de reducere evoMAG. Le folosim pentru testarea cuvintelor cheie cod reducere evoMAG, voucher evoMAG, cupon evoMAG, și cod promotional evoMAG de pe Cuponescu.ro.
+O colecție de coduri de reducere evoMAG. Le folosim pentru testarea cuvintelor cheie [cod reducere evoMAG](https://cuponescu.ro/magazin/evomag), [voucher evoMAG](https://cuponescu.ro/magazin/evomag), [cupon evoMAG](https://cuponescu.ro/magazin/evomag), și [cod promotional evoMAG](https://cuponescu.ro/magazin/evomag) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-evomag a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
